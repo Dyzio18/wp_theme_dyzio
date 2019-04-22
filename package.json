@@ -1,0 +1,9 @@
+{
+  "name": "patryk-nizio-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "scss": "sass --watch sass/style.scss:style.css"
+  }
+}
